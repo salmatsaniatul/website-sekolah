@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <h2 class="text-center mt-5">Identitas Kepala Sekolah</h2>
     <div class="row mt-5 justify-content-center">
-      <div class="col-md-3 bg-secondary">
+      <div class="col-md-3">
         <img
           src="~/assets/kepalasekolah.jpg"
           alt="kepsek"
