@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg bg-primary p-2 fixed-top">
     <div class="container-fluid">
       <img
-        src="../assets/logosmk.jpg"
+        src="../assets/logosmk.png"
         alt="logo"
       />
       <h1>SMKN 4 TASIKMALAYA</h1>
